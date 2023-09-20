@@ -7,10 +7,12 @@ Hello there! I'm Hamed, a fervent researcher and developer with a profound inter
 - 🍓 **LiboBerry**: As a co-founder, I'm at the forefront, driving cutting-edge research and development projects to bolster cybersecurity tools and methodologies. [Visit LiboBerry](https://www.liboberry.com/)
 - 🔒 **Privacy of LLMs**: Delving deep into the nuances of LLM privacy, crafting solutions to shield user data, and upholding the sanctity of confidentiality.
 
-## 📘 Noteworthy Research
+## 📘 Noteworthy Research & Contributions
 
+- **A Method and System for Adversarial Malware Threat Prevention and Adversarial Sample Generation**: This invention offers a firewall to protect AI-based malware detection systems against adversarial attacks. It's a significant stride in the realm of cybersecurity, ensuring robust protection against evolving threats.
+  
 📌 A two-layer dimension reduction and two-tier classification model for anomaly-based intrusion detection in IoT backbone networks  
-📌 A deep recurrent neural network-based approach for Internet of things malware threat hunting  
+📌 A deep recurrent neural network based approach for Internet of Things malware threat hunting  
 📌 A survey on IoT security: Requirements, challenges, and solutions  
 📌 Two-tier network anomaly detection model: a machine learning approach  
 📌 Cryptocurrency malware hunting: A deep recurrent neural network approach  
@@ -24,5 +26,5 @@ Hello there! I'm Hamed, a fervent researcher and developer with a profound inter
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haddadpajouh/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
-- 📧 [hamed [at] LiboBerry [d0t] com]
+- 📧 [hamed [at] LiboBerry.com]
 
