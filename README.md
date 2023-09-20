@@ -26,5 +26,5 @@ Hello there! I'm Hamed, a fervent researcher and developer with a profound inter
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haddadpajouh/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
-- 📧 [hamed [at] LiboBerry.com]
+- 📧 [hhaddadp [AT] uogeulph [DOT] com]
 
