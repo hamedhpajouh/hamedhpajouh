@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hamed Haddadpajouh
 
-<!--
-**hamedhpajouh/hamedhpajouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Hamed, a passionate researcher and developer with a keen interest in cybersecurity and privacy. I'm currently working at **LiboBerry**, where we are dedicated to advancing the field of cybersecurity and ensuring the privacy of LLMs.
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LiboBerry**: Co-founder, Contributing to cutting-edge research and development projects that aim to enhance cybersecurity measures and tools.
+- **Privacy of LLMs**: Exploring the intricacies of ensuring privacy in LLMs and developing solutions to protect user data and maintain confidentiality.
+
+## 📚 Past Experiences
+**Griffinix**: A turnkey Artificial Intelligence solution for protecting critical infrastructure, Exited!
+**Appsaz**: Working as a Product Manager/Owner at Appsaz (an online cross-platform mobile application generator system)
+
+## 📫 Get in Touch
+
+- LinkedIn: [Hamed Haddadpajouh](https://www.linkedin.com/in/haddadpajouh/)
+- Email: [hamed [at] LiboBerry.com]
