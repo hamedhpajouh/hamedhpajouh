@@ -4,16 +4,16 @@ Hello there! I'm Hamed, a fervent researcher and developer with a profound inter
 
 ## 🚀 Current Endeavors
 
-- 🍓 **LiboBerry**: As a co-founder, I'm at the forefront, driving cutting-edge research and development projects to bolster cybersecurity tools and methodologies.
+- 🍓 **LiboBerry**: As a co-founder, I'm at the forefront, driving cutting-edge research and development projects to bolster cybersecurity tools and methodologies. [Visit LiboBerry](https://www.liboberry.com/)
 - 🔒 **Privacy of LLMs**: Delving deep into the nuances of LLM privacy, crafting solutions to shield user data, and upholding the sanctity of confidentiality.
 
 ## 📘 Noteworthy Research
 
-📌 [A two-layer dimension reduction... in IoT backbone networks](#) - *459 Citations*  
-📌 [A deep recurrent neural network... malware threat hunting](#) - *402 Citations*  
-📌 [A survey on IoT security... challenges, and solutions](#) - *234 Citations*  
-📌 [Two-tier network anomaly detection... machine learning approach](#) - *170 Citations*  
-📌 [Cryptocurrency malware hunting... deep recurrent neural network approach](#) - *107 Citations*
+📌 A two-layer dimension reduction and two-tier classification model for anomaly-based intrusion detection in IoT backbone networks  
+📌 A deep recurrent neural network-based approach for Internet of things malware threat hunting  
+📌 A survey on IoT security: Requirements, challenges, and solutions  
+📌 Two-tier network anomaly detection model: a machine learning approach  
+📌 Cryptocurrency malware hunting: A deep recurrent neural network approach  
 
 ## 🌟 Past Adventures
 
@@ -23,5 +23,6 @@ Hello there! I'm Hamed, a fervent researcher and developer with a profound inter
 ## 💌 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haddadpajouh/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
 - 📧 [hamed [at] LiboBerry.com]
 
