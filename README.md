@@ -8,8 +8,8 @@ Hello! I'm Hamed, a passionate researcher and developer with a keen interest in 
 - **Privacy of LLMs**: Exploring the intricacies of ensuring privacy in LLMs and developing solutions to protect user data and maintain confidentiality.
 
 ## 📚 Past Experiences
-**Griffinix**: A turnkey Artificial Intelligence solution for protecting critical infrastructure, Exited!
-**Appsaz**: Working as a Product Manager/Owner at Appsaz (an online cross-platform mobile application generator system)
+- **Griffinix**: A turnkey Artificial Intelligence solution for protecting critical infrastructure, Exited!
+- **Appsaz**: Working as a Product Manager/Owner at Appsaz (an online cross-platform mobile application generator system)
 
 ## 📫 Get in Touch
 
