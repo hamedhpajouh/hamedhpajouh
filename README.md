@@ -11,7 +11,7 @@ Hello there! I'm Hamed, a fervent researcher and developer with a profound inter
 
 - **A Method and System for Adversarial Malware Threat Prevention and Adversarial Sample Generation**: This invention offers a firewall to protect AI-based malware detection systems against adversarial attacks. It's a significant stride in the realm of cybersecurity, ensuring robust protection against evolving threats. [US Patented](https://patents.google.com/patent/US20240031401A1/en)
   
-📌 Make your IoT environments robust against adversarial machine learning malware threats: a code-cave approach [[NDSS2024](https://www.ndss-symposium.org/ndss-paper/auto-draft-501/)] 
+📌 Make your IoT environments robust against adversarial machine learning malware threats: a code-cave approach [[NDSS2024](https://www.ndss-symposium.org/ndss-paper/auto-draft-501/)]
 📌 A two-layer dimension reduction and two-tier classification model for anomaly-based intrusion detection in IoT backbone networks  
 📌 A deep recurrent neural network-based approach for Internet of Things malware threat hunting  
 📌 A survey on IoT security: Requirements, challenges, and solutions  
