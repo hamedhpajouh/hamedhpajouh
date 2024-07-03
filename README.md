@@ -21,7 +21,7 @@ Hello there! I'm Hamed, a fervent researcher and developer with a profound inter
 
 ### 📊 Our Public Datasets for Machine Learning Tasks 
 
-- **Opcode Dataset for IoT Malware Detection**: A comprehensive dataset for opcode-based analysis of IoT malware. It includes various features for developing and testing malware detection algorithms. [Access the Dataset](https://github.com/CyberScienceLab/Our-Datasets/tree/master/IoT/OpCode/OpCode)  
+- **IoT Malware Detection**: A comprehensive dataset for opcode-based analysis of IoT malware. It includes various features for developing and testing malware detection algorithms. [Access the Dataset](https://github.com/CyberScienceLab/Our-Datasets/tree/master/IoT/OpCode/OpCode)  
   📄 Citation: Haddadpajouh, H., et al. "A deep Recurrent Neural Network based approach for Internet of Things malware threat hunting" 2018. [[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X1732486X)]
 
 ## 🌟 Past Adventures
