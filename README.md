@@ -1,6 +1,6 @@
 # 👋 Hamed Haddadpajouh
 
-Hello there! I'm Hamed, a fervent researcher and developer with a profound interest in **cybersecurity** and **privacy**. Currently, I'm pouring my passion and expertise into **LiboBerry**, advancing the cybersecurity realm and championing the privacy of LLMs.
+Hello there! I'm Hamed, a fervent researcher and developer deeply interested in **cybersecurity** and **privacy**. Currently, I'm pouring my passion and expertise into **LiboBerry**, advancing cybersecurity and championing LLMs' privacy.
 
 ## 🚀 Current Endeavors
 
