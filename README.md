@@ -9,7 +9,7 @@ Hello there! I'm Hamed, a fervent researcher and developer deeply interested in 
 
 ## 📘 Noteworthy Research & Contributions
 
-- **A Method and System for Adversarial Malware Threat Prevention and Adversarial Sample Generation**: This invention offers a firewall to protect AI-based malware detection systems against adversarial attacks. It's a significant stride in the realm of cybersecurity, ensuring robust protection against evolving threats. [US Patented](https://patents.google.com/patent/US20240031401A1/en)
+- **A Method and System for Adversarial Malware Threat Prevention and Adversarial Sample Generation**: This invention offers a firewall to protect AI-based malware detection systems against adversarial attacks. It's a significant stride in cybersecurity, ensuring robust protection against evolving threats. [US Patented](https://patents.google.com/patent/US20240031401A1/en)
   
 📌 Make your IoT environments robust against adversarial machine learning malware threats: a code-cave approach [[NDSS2024](https://www.ndss-symposium.org/ndss-paper/auto-draft-501/)]
 
@@ -33,4 +33,4 @@ Hello there! I'm Hamed, a fervent researcher and developer deeply interested in 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haddadpajouh/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
-- 📧 [hhaddadp [AT] uogeulph [DOT] com]
+- 📧 [hamed.haddadpajouh [AT] senecapolytechnic [DOT] ca]
