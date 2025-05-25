@@ -1,4 +1,4 @@
-# 👋 Hamed Haddadpajouh
+# 👋 Hamed HaddadPajouh
 
 Hello there! I'm Hamed, a fervent researcher and developer deeply interested in **cybersecurity** and **privacy**. Currently, I'm pouring my passion and expertise into **LiboBerry**, advancing cybersecurity and championing LLMs' privacy.
 
