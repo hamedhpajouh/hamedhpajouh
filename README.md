@@ -1,36 +1,38 @@
 # 👋 Hamed HaddadPajouh
 
-Hello there! I'm Hamed, a fervent researcher and developer deeply interested in **cybersecurity** and **privacy**. Currently, I'm pouring my passion and expertise into **LiboBerry**, advancing cybersecurity and championing LLMs' privacy.
+Hi! I'm Hamed, a Professor at Seneca Polytechnic and Technical Product Lead at **LiboBerry**, with a passion for **cybersecurity**, **Generative AI**, and **adversarial ML**. I specialize in secure software architectures and privacy-preserving AI systems, blending research and product innovation.
 
 ## 🚀 Current Endeavors
 
-- 🍓 **LiboBerry**: As a co-founder, I'm at the forefront, driving cutting-edge research and development projects to bolster cybersecurity tools and methodologies. [Visit LiboBerry](https://www.liboberry.com/)
-- 🔒 **Privacy of LLMs**: Delving deep into the nuances of LLM privacy, crafting solutions to shield user data, and upholding the sanctity of confidentiality.
+- 🍓 **LiboBerry (2021–Present)**: Leading AI-powered SaaS for scientific document generation, managing ML training pipelines, and scaling human data workflows for model training. [Visit LiboBerry](https://www.liboberry.com/)
+- 🔒 **GenAI Privacy & Robustness**: Researching privacy-preserving techniques, adversarial robustness, and secure architectures for generative AI systems at Seneca Polytechnic.
+- 🎓 **Teaching at Seneca**: Delivering courses like CYT 300 (Cybersecurity Capstone) and CRT 530 (Advanced Data Analysis), emphasizing secure software practices.
 
 ## 📘 Noteworthy Research & Contributions
 
-- **A Method and System for Adversarial Malware Threat Prevention and Adversarial Sample Generation**: This invention offers a firewall to protect AI-based malware detection systems against adversarial attacks. It's a significant stride in cybersecurity, ensuring robust protection against evolving threats. [US Patented](https://patents.google.com/patent/US20240031401A1/en)
-  
-📌 Make your IoT environments robust against adversarial machine learning malware threats: a code-cave approach [[NDSS2024](https://www.ndss-symposium.org/ndss-paper/auto-draft-501/)]
+- **US Patent App. 18/354,784**: Co-invented a method for adversarial malware threat prevention, enhancing AI-based malware detection resilience. [View Patent](https://patents.google.com/patent/US20240031401A1/en)
+- **Key Publication**: "Multi-Kernel and Meta-Heuristic Feature Selection for IoT Malware Threat Hunting" (IEEE IoT Journal, 2020). [Read Paper](https://ieeexplore.ieee.org/document/9155610)
+- **NDSS 2024**: Presented a code-cave approach for robust IoT malware defense. [Details](https://www.ndss-symposium.org/ndss-paper/auto-draft-501/)
+- 15+ peer-reviewed publications (2,439 citations, h-index: 14). [Full List](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
 
-📌 A two-layer dimension reduction and two-tier classification model for anomaly-based intrusion detection in IoT backbone networks  
-📌 A deep recurrent neural network-based approach for Internet of Things malware threat hunting  
-📌 A survey on IoT security: Requirements, challenges, and solutions  
-📌 Two-tier network anomaly detection model: a machine learning approach  
-📌 Cryptocurrency malware hunting: A deep recurrent neural network approach  
+### 📊 Public Datasets
 
-### 📊 Our Public Datasets for Machine Learning Tasks 
-
-- **IoT Malware Detection**: A comprehensive dataset for opcode-based analysis of IoT malware. It includes various features for developing and testing malware detection algorithms. [Access the Dataset](https://github.com/CyberScienceLab/Our-Datasets/tree/master/IoT/OpCode/OpCode)  
-  📄 Citation: Haddadpajouh, H., et al. "A deep Recurrent Neural Network based approach for Internet of Things malware threat hunting" 2018. [[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X1732486X)]
+- **IoT Malware Detection Dataset**: Opcode-based dataset for ML-driven malware analysis. [Access Dataset](https://github.com/CyberScienceLab/Our-Datasets/tree/master/IoT/OpCode/OpCode)  
+  📄 Citation: Haddadpajouh, H., et al. "A deep Recurrent Neural Network based approach for Internet of Things malware threat hunting" (2018). [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0167739X1732486X)
 
 ## 🌟 Past Adventures
 
-- 🛡 **Griffinix**: Spearheaded a turnkey Artificial Intelligence startup to fortify critical infrastructure. A triumphant exit!
-- 📱 **Appsaz**: Donned the hat of a Product Manager/Owner, steering Appsaz - a versatile online mobile application generator system.
+- **University of Guelph (2018–2024)**: Led $310K+ in ML research for IoT malware detection, supervised 3 Ph.D. students, and secured a US patent.
+- **Palapal Pardaz Fars (2013–2018)**: Directed R&D for ML-driven enterprise software, increasing revenue by 30% through strategic projects.
+
+## 🏆 Grants & Recognition
+
+- **Mitacs Accelerate (2023–2024)**: $45K for AI-powered software tools.
+- **NSERC Idea to Innovation (2022)**: $20K for secure IoT prototypes.
+- **Nominated for Governor General’s Academic Medal (2024)**.
 
 ## 💌 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haddadpajouh/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
-- 📧 [hamed.haddadpajouh [AT] senecapolytechnic [DOT] ca]
+- 📧 hamed.haddadpajouh [AT] senecapolytechnic [DOT] ca
