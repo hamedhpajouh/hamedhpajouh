@@ -13,7 +13,7 @@ Hi! I'm Hamed, a Technical Product Lead at **LiboBerry** and a **Professor** at 
 - **US Patent App. 18/354,784**: Co-invented a method for adversarial malware threat prevention, enhancing AI-based malware detection resilience. [View Patent](https://patents.google.com/patent/US20240031401A1/en)
 - **Key Publication**: "Multi-Kernel and Meta-Heuristic Feature Selection for IoT Malware Threat Hunting" (IEEE IoT Journal, 2020). [Read Paper](https://ieeexplore.ieee.org/document/9155610)
 - **NDSS 2024**: Presented a code-cave approach for robust IoT malware defense. [Details](https://www.ndss-symposium.org/ndss-paper/auto-draft-501/)
-- 15+ peer-reviewed publications (2,439 citations, h-index: 14). [Full List](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
+- 18+ peer-reviewed publications (2,500 citations, h-index: 14). [Full List](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
 
 ### 📊 Public Datasets
 
