@@ -1,6 +1,6 @@
 # 👋 Hamed HaddadPajouh
 
-Hi! I'm Hamed, a Technical Product Lead at **LiboBerry** and a **Professor** at Seneca Polytechnic, with a passion for **cybersecurity**, **Generative AI**, and **adversarial ML**. I specialize in secure software architectures and privacy-preserving AI systems, blending research and product innovation.
+Hi! I'm Hamed, a Technical Product Lead at **LiboBerry** and a **Professor** at Seneca Polytechnic, with a passion for **cybersecurity**, **Generative AI**, and **Adversarial ML**. I specialize in secure software architectures and privacy-preserving AI systems, blending research and product innovation.
 
 ## 🚀 Current Endeavors
 
