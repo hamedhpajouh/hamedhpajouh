@@ -4,7 +4,7 @@ Hi! I'm Hamed, a Technical Product Lead at **LiboBerry** and a **Professor** at 
 
 ## 🚀 Current Endeavors
 
-- 🍓 **LiboBerry (2021–Present)**: Leading AI-powered SaaS for scientific document generation, managing ML training pipelines, and scaling human data workflows for model training. [Visit LiboBerry](https://www.liboberry.com/)
+- 🍓 **LiboBerry (2021–Present)**: Leading AI-powered SaaS for scientific document generation, managing ML training pipelines, and scaling human data workflows for model training. [Visit LiboBerry](https://liboberry.com/)
 - 🔒 **GenAI Privacy & Robustness**: Researching privacy-preserving techniques, adversarial robustness, and secure architectures for generative AI systems at Seneca Polytechnic.
 - 🎓 **Teaching at Seneca**: Delivering courses like CYT300 (Cybersecurity Capstone) for graduate  and SRT521 (Advanced Data Analysis), emphasizing secure software practices.
 
