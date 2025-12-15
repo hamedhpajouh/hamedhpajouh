@@ -2,7 +2,7 @@
 
 Hi! I'm Hamed, a Technical Product Lead at **LiboBerry** and a **Professor** at Seneca Polytechnic, with a passion for **cybersecurity**, **Generative AI**, and **Adversarial ML**. I specialize in secure software architectures and privacy-preserving AI systems, blending research and product innovation.
 
-## 🚀 Current Endeavors
+##  Current Endeavors
 
 - 🍓 **LiboBerry (2021–Present)**: Leading AI-powered SaaS for scientific document generation, managing ML training pipelines, and scaling human data workflows for model training. [Visit LiboBerry](https://liboberry.com/)
 - 🔒 **GenAI Privacy & Robustness**: Researching privacy-preserving techniques, adversarial robustness, and secure architectures for generative AI systems at Seneca Polytechnic.
