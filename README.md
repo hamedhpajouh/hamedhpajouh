@@ -35,4 +35,4 @@ Hi! I'm Hamed, a Technical Product Lead at **LiboBerry** and a **Professor** at 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haddadpajouh/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
-- 📧 hamed.haddadpajouh [AT] senecapolytechnic [DOT] ca
+
