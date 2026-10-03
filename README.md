@@ -1,19 +1,20 @@
-# 👋 Hamed HaddadPajouh
+# 👋 Hamed HaddadPajouh, Ph.D.
 
-Hi! I'm Hamed, a Technical Product Lead at **LiboBerry** and a **Professor** at Seneca Polytechnic, with a passion for **cybersecurity**, **Generative AI**, and **Adversarial ML**. I specialize in secure software architectures and privacy-preserving AI systems, blending research and product innovation.
+Hi! I'm Hamed, Vice President of AI Engineering at **BMO Capital Markets**, Co-founder of **LiboBerry**, and an **Adjunct Assistant Professor** at Westcliff University. With a dual Ph.D. in Computer Network Engineering and Computational Science, I focus on **Multi-Agent AI Architectures**, **Causal AI**, **Cybersecurity (DFIR)**, and **Generative AI Security**. 
 
-##  Current Endeavors
+## 🚀 Current Endeavors
 
-- 🍓 **LiboBerry (2021–Present)**: Leading AI-powered SaaS for scientific document generation, managing ML training pipelines, and scaling human data workflows for model training. [Visit LiboBerry](https://liboberry.com/)
-- 🔒 **GenAI Privacy & Robustness**: Researching privacy-preserving techniques, adversarial robustness, and secure architectures for generative AI systems at Seneca Polytechnic.
-- 🎓 **Teaching at Seneca**: Delivering courses like CYT300 (Cybersecurity Capstone) for graduate  and SRT521 (Advanced Data Analysis), emphasizing secure software practices.
+- 🏦 **BMO Capital Markets (2026–Present)**: VP of AI Engineering. Designing and scaling production multi-agent AI architectures (LangGraph, FastMCP, NVIDIA AgentIQ, NeMo Guardrails) and causal AI pipelines for marketing attribution (Media Mix Modeling, Doubly Robust estimation).
+- 🍓 **LiboBerry (2021–Present)**: Co-founder. Leading an AI-powered SaaS for scientific document generation and building zero-trust automated knowledge intelligence pipelines using IBM Docling, RapidOCR, and LLM post-processing. [Visit LiboBerry](https://liboberry.com/)
+- 🎓 **Westcliff University (2026–Present)**: Adjunct Assistant Professor, advancing technical instruction and higher education.
 
 ## 📘 Noteworthy Research & Contributions
 
-- **US Patent App. 18/354,784**: Co-invented a method for adversarial malware threat prevention, enhancing AI-based malware detection resilience. [View Patent](https://patents.google.com/patent/US20240031401A1/en)
-- **Key Publication**: "Multi-Kernel and Meta-Heuristic Feature Selection for IoT Malware Threat Hunting" (IEEE IoT Journal, 2020). [Read Paper](https://ieeexplore.ieee.org/abstract/document/9205853)
-- **NDSS 2024**: Presented a code-cave approach for robust IoT malware defense. [Details](https://www.ndss-symposium.org/ndss-paper/auto-draft-501/)
-- 18+ peer-reviewed publications (2,500+ citations, h-index: 14). [Full List](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
+- 📝 **ICML 2026**: Recently submitted research advancing machine learning frameworks.
+- 🛡️ **US Patent App. 18/354,784**: Co-invented a method for adversarial malware threat prevention and Generative AI security. [View Patent](https://patents.google.com/patent/US20240031401A1/en)
+- 🔒 **NDSS 2024**: Presented a code-cave approach for robust IoT malware defense. [Details](https://www.ndss-symposium.org/ndss-paper/auto-draft-501/)
+- 📖 **Key Publication**: "Multi-Kernel and Meta-Heuristic Feature Selection for IoT Malware Threat Hunting" (IEEE IoT Journal, 2020). [Read Paper](https://ieeexplore.ieee.org/abstract/document/9205853)
+- 📈 **Impact**: 18+ peer-reviewed publications with 2,500+ citations and an h-index of 14. [Full List](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
 
 ### 📊 Public Datasets
 
@@ -22,6 +23,7 @@ Hi! I'm Hamed, a Technical Product Lead at **LiboBerry** and a **Professor** at 
 
 ## 🌟 Past Adventures
 
+- **Seneca Polytechnic (2022–2026)**: Full-time Professor in Cybersecurity. Designed advanced 14-week curriculum for Digital Forensics and Incident Response (DFIR) labs and delivered capstone courses emphasizing secure software architectures and GenAI privacy.
 - **University of Guelph (2018–2024)**: Led $310K+ in ML research for IoT malware detection, supervised 3 Ph.D. students, and secured a US patent.
 - **Palapal Pardaz Fars (2013–2018)**: Directed R&D for ML-driven enterprise software, increasing revenue by 30% through strategic projects.
 
@@ -35,4 +37,3 @@ Hi! I'm Hamed, a Technical Product Lead at **LiboBerry** and a **Professor** at 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haddadpajouh/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=dMDISUgAAAAJ&hl=en)
-
