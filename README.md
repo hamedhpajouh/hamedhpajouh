@@ -4,10 +4,10 @@ Hi! I'm Hamed. Holding a dual Ph.D. in Computer Network Engineering and Computat
 
 ## Current Research & Focus Areas
 
-- 🧠 **AI Agent Memory & Architectures**: Researching and engineering long-term and working memory systems for multi-agent environments using LangGraph, FastMCP, Model Context Protocol (MCP), and NVIDIA AgentIQ.
-- 📊 **Causal AI & Inference**: Developing advanced causal models incorporating Media Mix Modeling, Doubly Robust estimation, XGBoost response models, and Out-of-Fold calibration.
-- 🍓 **Zero-Trust Extraction Pipelines**: Researching and building automated scientific document parsing and ML data extraction workflows utilizing IBM Docling, RapidOCR, and LLM post-processing for SaaS applications.
-- 🎓 **Cybersecurity & DFIR**: Advancing GenAI privacy guardrails (NeMo Guardrails) and developing advanced academic curricula for Digital Forensics, memory analysis, and Incident Response.
+-  **AI Agent Memory & Architectures**: Researching and engineering long-term and working memory systems for multi-agent environments using LangGraph, FastMCP, Model Context Protocol (MCP)
+-  **Causal AI & Inference**: Developing advanced causal models incorporating Media Mix Modeling, Doubly Robust estimation, XGBoost response models, and Out-of-Fold calibration.
+- **Zero-Trust Extraction Pipelines**: Researching and building automated scientific document parsing and ML data extraction workflows utilizing IBM Docling, RapidOCR, and LLM post-processing for SaaS applications.
+-  **Cybersecurity & DFIR**: Advancing GenAI privacy guardrails (NeMo Guardrails) and developing advanced academic curricula for Digital Forensics, memory analysis, and Incident Response.
 
 ## 📘 Noteworthy Research & Contributions
 
